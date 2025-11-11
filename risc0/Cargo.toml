@@ -8,4 +8,4 @@ opt-level = 3
 
 [profile.release]
 debug = 1
-lto = true
+to = true
